@@ -28,7 +28,7 @@ de hipóteses para as os casos em que temos uma reta nos dados do item 1).
 Ou seja, entram os dados x e y (vetores) e sai o valor R.
 
 
-## Começando
+## Começandoo
 
  1. Clone esse repositorio ```git clone https://github.com/Rodrigo-Segui/Trabalho-ProbabilidadeEstatistica.git```
  2. # Execute-o
