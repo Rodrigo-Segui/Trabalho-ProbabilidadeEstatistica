@@ -28,17 +28,10 @@ de hipóteses para as os casos em que temos uma reta nos dados do item 1).
 Ou seja, entram os dados x e y (vetores) e sai o valor R.
 
 
-## Começandoo
+## Começando
 
  1. Clone esse repositorio ```git clone https://github.com/Rodrigo-Segui/Trabalho-ProbabilidadeEstatistica.git```
  2. # Execute-o
   
- ## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/Rodrigo-Segui/Biblioteca-de-Grafos/blob/master/LICENSE) para mais detalhes
-
-
-
-
 
 
