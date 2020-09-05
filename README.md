@@ -2,7 +2,7 @@
 
 </h1>
 
-# Trabalho ProbabilidadeEstatistica
+# Trabalho ProbabilidadeEstatística
 
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
