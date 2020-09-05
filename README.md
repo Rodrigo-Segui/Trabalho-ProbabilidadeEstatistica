@@ -31,7 +31,7 @@ Ou seja, entram os dados x e y (vetores) e sai o valor R.
 ## Começando
 
  1. Clone esse repositorio ```git clone https://github.com/Rodrigo-Segui/Trabalho-ProbabilidadeEstatistica.git```
- 2. # Execute-o
+ 2. # Execute
   
 
 
